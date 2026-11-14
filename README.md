@@ -3,5 +3,5 @@
 Tech enthusiast from La Paz, Bolivia. I love building, automating and
 learning new things around Linux, cloud and infrastructure.
 
-### 🔧 Tools I enjoy
+### 🔧 Tools
 Terraform · Ansible · Python · Docker · Kubernetes · Linux
